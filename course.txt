@@ -1,0 +1,6 @@
+courseID	courseName
+1	Cisc220
+2	Cisc124
+3	Cisc222
+4	Cisc129
+5	Cisc432
