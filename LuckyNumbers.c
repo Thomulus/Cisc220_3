@@ -11,7 +11,7 @@ int Lucky() {
 			k = k - 1;
 			j/=10;
 		}
-		if (number[0] + number[1] + number[2] + number[3] == 7){
+		if ((number[0] + number[1] + number[2] + number[3])%7 ==0){
 			printf("%i\n",i);
 		}
 	}
