@@ -1,3 +1,4 @@
+//Thomas Parker 10098777
 #include <stdio.h>
 #include <stdlib.h>
 int Lucky();
